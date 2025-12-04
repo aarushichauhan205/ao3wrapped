@@ -2,8 +2,8 @@
 
 # Replace your ao3 username and password and put quotation marks around it
 # Ex: username = "myao3username"
-username = uname
-password = pword
+username = "kungkungsi"
+password = "seena1901"
 
 # Program defaults on getting its information from the history page, but you can choose to get it from the bookmarks by setting this variable to True
 bookmarks = False
